@@ -1,0 +1,18 @@
+# Virtual Environments (DO NOT UPLOAD)
+.venv/
+venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files (Keep raw datasets local, especially if they are large or contain sensitive telecom data)
+data/*.csv
+*.csv
+
+# VS Code Settings
+.vscode/
